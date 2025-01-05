@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/msalahz?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/msalahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/msalahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.upwork.com/freelancers/msalahz" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_200_200/company-logo_200_200/0/1727104517379/upwork_logo?e=2147483647&v=beta&t=xrLY2huu3KoSijtH_Px8mEuNNZq09jpha_nB8KLBV0g" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/msalahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/msalahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.upwork.com/freelancers/msalahz" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_200_200/company-logo_200_200/0/1727104517379/upwork_logo?e=2147483647&v=beta&t=xrLY2huu3KoSijtH_Px8mEuNNZq09jpha_nB8KLBV0g" width="32" height="32" /></a></p>
 
 ### Badges
 
