@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Expert and Team Lead
 -------------------------------
 
-Senior Software Engineer with proven technical and leadership contributions to worldwide teams of varying sizes and scopes. Capable of filling gaps in any team on both the high level (process, workflow), software design, development, and architecture levels, as well as line-level code analysis and PR basis. Strong in design and integration of problem-solving. With 10+ years of experience in JavaScript, Typescript, HTML, CSS, React.js, Next.js, Vue.js, Node.js, Express.js, Ember.js, AngularJS, Database design, and Docker. I aim to successfully leverage my skills to fill any senior or lead roles.
+Senior Software Engineer with proven technical and leadership contributions to worldwide teams of varying sizes and scopes. Capable of filling gaps in any team on both the high level (process, workflow), software design, development, and architecture levels, as well as line-level code analysis and PR basis. Strong in design and integration of problem-solving. With 10+ years of experience in JavaScript, Typescript, HTML, CSS, React.js, Next.js, Vue.js, Node.js, Express.js, Fastify, Database design, and Docker. I aim to successfully leverage my skills to fill any senior or lead roles.
 
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [mohammed.zaghloul@outlook.com](mailto:mohammed.zaghloul@outlook.com)
-* 🚀  I'm currently working on [Diwala](http://diwala.io)
-* 🧠  I'm learning tRPC, Prisma, Tailwind CSS
+* 🚀  I'm currently open hiring
+* 🧠  I'm learning TanStack Start, Astro, and AI
 
 <a href="https://www.github.com/msalahz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/msalahz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,6 +30,7 @@ src="https://img.shields.io/github/followers/msalahz?logo=github&style=for-the-b
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastify.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/24939410?s=36&v=4" alt="Fastify" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
