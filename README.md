@@ -92,8 +92,7 @@ Online pizza ordering app showcasing modern React patterns with **Material-UI** 
 
 ---
 
-# 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=msalahz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=msalahz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=msalahz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
