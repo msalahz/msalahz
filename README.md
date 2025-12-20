@@ -34,9 +34,9 @@ AI-powered Multilingual transcription management platform by ARK Knowledge Netwo
 Transitioned from PHP to React, boosting dev speed by 30%. Implemented maintainable architecture, reducing maintenance costs and enhancing reliability.
 🔗 [Live Demo](https://events.captello.com)
 
-### 🚧 [Contacts](https://github.com/msalahz/contacts) *(Under Development)*
+### 🚧 [Contactory](https://github.com/msalahz/contactory) *(Under Development)*
 Modern contact management application showcasing full-stack development with **TanStack Start** + **React** + **TypeScript** + **Tailwind CSS** + **PostgreSQL**.
-🔗 [Live Demo](https://contacts.consultin.dev/)
+🔗 [Live Demo](https://contactory.consultin.dev/)
 
 ### 🍕 [Restaurant de Pizza](https://github.com/msalahz/resturant-de-pizza)
 Online pizza ordering app showcasing modern React patterns with **Material-UI** + **React Query**. Features dynamic pricing, multi-item cart management, and smooth ordering flow.
