@@ -26,6 +26,10 @@ AI-powered web development, Web3 & SSI, TanStack Start, AI SDK, and TanStack AI
 
 ## 🚀 Featured Projects
 
+### 🧑‍🏫 [Mohammed Zaghloul — DevPlusCoder.com](https://github.com/msalahz/portfolio)
+Personal portfolio showcasing 12+ years of software engineering, consulting, and end-to-end web solutions.
+🔗 [Live Demo]([https://qarib.arknetworks.ai](https://devpluscoder.com)
+
 ### 🤖 [Qarib - Multilingual AI, transcription management](https://qarib.arknetworks.ai)
 AI-powered Multilingual transcription management platform by ARK Knowledge Networks. Built a production-grade web app with full RTL/LTR support, delivering an MVP in just 8 weeks.
 🔗 [Live Demo](https://qarib.arknetworks.ai)
